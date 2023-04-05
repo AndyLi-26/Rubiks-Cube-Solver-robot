@@ -1,0 +1,3 @@
+/home/rubik2023/Documents/fyp/raspi_rubiks/debug/CMakeFiles/rebuild_cache.dir
+/home/rubik2023/Documents/fyp/raspi_rubiks/debug/CMakeFiles/edit_cache.dir
+/home/rubik2023/Documents/fyp/raspi_rubiks/debug/CMakeFiles/main.dir
